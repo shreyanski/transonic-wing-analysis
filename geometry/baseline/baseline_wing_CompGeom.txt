@@ -1,0 +1,15 @@
+...Comp Geom...
+1 Num Comps
+2 Total Num Meshes
+120368 Total Num Tris
+
+Theo_Area   Wet_Area   Theo_Vol    Wet_Vol  Name
+  101.687    101.687      6.470      6.470  baseline_wing  
+-------------------------------------------------
+  101.687    101.687      6.470      6.470  Totals         
+
+Tag_Theo_Area   Tag_Wet_Area    Tag_Name
+       50.844         50.844    baseline_wing_S_Surf0
+       50.844         50.844    baseline_wing_S_Surf1
+WARNING: 1 open meshes merged
+     Merged: baseline_wing
