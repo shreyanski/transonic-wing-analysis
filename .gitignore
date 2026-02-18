@@ -298,5 +298,10 @@ $RECYCLE.BIN/
 results/*.png 
 !results/final_figures/
 
+# Virtual environment (don't upload thousands of lib files from python)
+.venv/
+venv/
+env/
+
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,python,visualstudiocode,openfoam
